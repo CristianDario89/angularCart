@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Coca-cola",
+      "description": "tu vieja",
+      "price": 222,
+      "imageUrl": "https://mui.today/__export/1589466590626/sites/mui/img/2020/05/14/coca-cola-sabor-botella-vidrio.jpg_879108255.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sprite",
+      "description": "tu hermana",
+      "price": 192,
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_686337-MLA29423640469_022019-O.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fanta",
+      "description": "tu novia",
+      "price": 222,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj4OapdfSZGZeTRwqXYmzC50zsEOwe9RYbFw&usqp=CAU"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Coca-cola",
+        "description": "tu vieja",
+        "price": 222,
+        "imageUrl": "https://mui.today/__export/1589466590626/sites/mui/img/2020/05/14/coca-cola-sabor-botella-vidrio.jpg_879108255.jpg"
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Sprite",
+        "description": "tu hermana",
+        "price": 192,
+        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_686337-MLA29423640469_022019-O.jpg"
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Coca-cola",
+        "description": "tu vieja",
+        "price": 222,
+        "imageUrl": "https://mui.today/__export/1589466590626/sites/mui/img/2020/05/14/coca-cola-sabor-botella-vidrio.jpg_879108255.jpg"
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Coca-cola",
+        "description": "tu vieja",
+        "price": 222,
+        "imageUrl": "https://mui.today/__export/1589466590626/sites/mui/img/2020/05/14/coca-cola-sabor-botella-vidrio.jpg_879108255.jpg"
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Fanta",
+        "description": "tu novia",
+        "price": 222,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj4OapdfSZGZeTRwqXYmzC50zsEOwe9RYbFw&usqp=CAU"
+      },
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
