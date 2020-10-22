@@ -79,6 +79,16 @@
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj4OapdfSZGZeTRwqXYmzC50zsEOwe9RYbFw&usqp=CAU"
       },
       "id": 5
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Fanta",
+        "description": "tu novia",
+        "price": 222,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj4OapdfSZGZeTRwqXYmzC50zsEOwe9RYbFw&usqp=CAU"
+      },
+      "id": 6
     }
   ],
   "comments": [
